@@ -3,7 +3,8 @@ Basic HTML5 concepts, following the course https://academy.zerotomastery.io/cour
 Follow me to make this path together.
 
 Stack:
-  HTML
+
+ * HTML
 
 You can check the example here:
 https://7pixel-cl.github.io/01-BasicHTML5/
